@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" font="600 20px">
   Hello 👋, I am Ausaf Hussain 
 </p>
 
