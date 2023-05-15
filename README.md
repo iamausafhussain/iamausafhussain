@@ -10,7 +10,7 @@ Software Developer @Cozentus
 A highly resourceful computer programmer and well-rounded IT professional with over 1 years of computing experience, possessing expert knowledge of the software development lifecycle and a solid understanding of technologies required for the development and deployment of highly available and scalable applications, including their networks and infrastructure.
 </p>
 
-<p>
+<p align="center">
 Skills: MERN | DotNet | MsSql | Azure
 </p>
 
