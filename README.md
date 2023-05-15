@@ -1,6 +1,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iamausafhussain&border_radius=4&card_width=500)](https://git.io/streak-stats)
 
-![visitors](https://visitor-badge.glitch.me/badge?iamausafhussain=page.id&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=[page.id](https://github.com/iamausafhussain)&left_color=green&right_color=red)
 <!--
 **iamausafhussain/iamausafhussain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
