@@ -70,7 +70,7 @@ Skills: MERN | DotNet | MsSql | Azure
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iamausafhussain&border_radius=4&card_width=500)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamausafhussain&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamausafhussain&layout=compact&title_color=fb8c00)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Profile views](https://gpvc.arturio.dev/iamausafhussain)  
 
