@@ -1,6 +1,12 @@
-<p align="center" font="600 20px">
-  Hello 👋, I am Ausaf Hussain 
-</p>
+### Hi there 👋, my name is Ausaf Hussain
+#### Software Developer @Cozentus
+![Software Developer @Cozentus](https://iamausafhussain.netlify.app)
+
+A highly resourceful computer programmer and well-rounded IT professional with over 1 years of computing experience, possessing expert knowledge of the software development lifecycle and a solid understanding of technologies required for the development and deployment of highly available and scalable applications, including their networks and infrastructure.
+
+Skills: MERN/DotNet/MsSql/Azure
+
+- 🔭 I’m currently working on this page.
 
 📋 Languages
 
