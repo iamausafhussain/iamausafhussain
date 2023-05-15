@@ -46,7 +46,7 @@
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Uber](https://img.shields.io/badge/Uber-%23000000.svg?style=for-the-badge&logo=Uber&logoColor=white)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamausafhussain&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamausafhussain&show_icons=true&title_color=fb8c00)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iamausafhussain&border_radius=4&card_width=500)](https://git.io/streak-stats)
 
