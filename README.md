@@ -11,11 +11,10 @@ A highly resourceful computer programmer and well-rounded IT professional with o
 </p>
 
 <p>
-Skills: MERN/DotNet/MsSql/Azure
+Skills: MERN | DotNet | MsSql | Azure
 </p>
 
-
-- 🔭 I’m currently working on this page.
+<hr/>
 
 📋 Languages
 
