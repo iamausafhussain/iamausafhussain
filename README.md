@@ -72,8 +72,6 @@ Skills: MERN | DotNet | MsSql | Azure
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamausafhussain&layout=compact&title_color=fb8c00)](https://github.com/anuraghazra/github-readme-stats)
 
-![Profile views](https://gpvc.arturio.dev/iamausafhussain)  
-
 <!--
 **iamausafhussain/iamausafhussain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
