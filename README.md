@@ -11,7 +11,7 @@ A highly resourceful computer programmer and well-rounded IT professional with o
 </p>
 
 <p align="center">
-Skills: MERN | DotNet | MsSql | Azure
+Skills: React | DotNet | MsSql | Azure | Angular
 </p>
 
 <hr/>
